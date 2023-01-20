@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋😊</h1>
-<img align="left" alt="Nepali flag" width="300"  src="https://2.bp.blogspot.com/-_yR2ww54dO8/Xtu-pVi2mYI/AAAAAAAA2DY/CNJen388JGIbwmxbf5r_V2xhDmQ5WAJRQCLcBGAsYHQ/s1600/Flag_of_Nepal.gif">
+<img align="left" alt="Nepali flag" width="300"  src="https://camo.githubusercontent.com/52d131fa4d01624f01e561438c1f048475fb2aad5fbd36ec89a74bae651bf5ad/68747470733a2f2f62657374616e696d6174696f6e732e636f6d2f6d656469612f666c6167732f313033393037343933326e6170616c2d666c61672d6769662e676966">
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
 
