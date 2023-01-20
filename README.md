@@ -1,5 +1,5 @@
 ### Hi there 👋 This is Resham Parajuli
-![Flag_of_Nepal](https://user-images.githubusercontent.com/40835924/213753065-e2517090-7b03-4194-aee0-42f91796fc8f.gif)    ![R](https://user-images.githubusercontent.com/40835924/213753747-03dd7549-e3f7-4aa8-9417-3d0ba97a3a80.gif)
+![Flag_of_Nepal](https://user-images.githubusercontent.com/40835924/213753065-e2517090-7b03-4194-aee0-42f91796fc8f.gif)    
 
 
 
