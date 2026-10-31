@@ -41,18 +41,7 @@ Development	Developer
 
 ⸻
 
-📊 GitHub Statistics
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Reshamparajuli&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reshamparajuli&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-⸻
-
-<p align="center">
-  <i>"Building ideas into reality, one app at a time."</i> 🚀
-</p>
 <p align="center">
   **Flutter Developer of NepShorts – Resham Parajuli**
 </p>
